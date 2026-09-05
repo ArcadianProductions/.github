@@ -11,7 +11,7 @@ Arcadian Productions is proudly founded by Astra and Lune, alongside with the he
 ### Video Games
 - Project Dawn
 - Alchequest
-- Moved Spotlight
+- Mega Man: Blue's Trap (Reimagining of Mega Man 5)
 
 ### Mods
 - Terraria: Arcadia Mod
